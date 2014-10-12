@@ -18,7 +18,7 @@ public class COP4504GIT {
         System.out.println("Shane Hamilton");
         //System.out.println("John Doe");
         //Enter your System.out.printlin("your name here"); below and submit your
-        //changes for full credit.
+        //changes for full credit!
         
     }
     
