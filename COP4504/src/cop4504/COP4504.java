@@ -15,7 +15,7 @@ public class COP4504 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Shane Hamilton");
+        System.out.println("Justin Kregear");
         //Test
     }
     
